@@ -1,2 +1,10 @@
 # estudando-git-github
- Estudando markdown
+--- 
+
+testando markdown
+nome|idade|sexo
+---|---|---
+Helen|25|feminino
+fernanda|34|feminino
+
+`console.log`
